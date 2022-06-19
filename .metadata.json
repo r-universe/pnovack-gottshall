@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ecospace",
+    "oncran": true
+  },
+  {
+    "package": "KScorrect",
+    "oncran": true
+  }
+]
