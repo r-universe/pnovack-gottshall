@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ecospace"]
-	path = ecospace
-	url = https://github.com/pnovack-gottshall/ecospace
 [submodule "KScorrect"]
 	path = KScorrect
 	url = https://github.com/pnovack-gottshall/kscorrect
+[submodule "ecospace"]
+	path = ecospace
+	url = https://github.com/pnovack-gottshall/ecospace
